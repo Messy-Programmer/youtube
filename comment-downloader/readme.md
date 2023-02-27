@@ -6,7 +6,7 @@ Before you run the program:
 2. Fill the post id
 3. Fill the access token
 
-************************\*\*\*\*************************Create virtual environment************************\*\*\*\*************************
+**Create virtual environment**
 
 ```cmd
 python -m virtualenv venv
